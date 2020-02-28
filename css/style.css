@@ -1,0 +1,122 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin : 0;
+    background-color: #c8e8ed;
+    text-align: center;
+}
+.top-container {
+    position: relative;
+    padding: 100px 100px 230px 100px;
+    
+}
+.middle-container {
+    padding-top: 120px;
+    background-color: #f3f3f3;
+}
+.profile {
+    margin-bottom: 200px;
+    width: 40%;
+    margin: auto;
+}
+hr {
+    margin-top: 200px;
+    margin-bottom: 200px;
+    border-style: dotted none none;
+    border-color: silver;
+    border-width: 7px;
+    height: 0px;
+    width: 5%;}
+h1 {
+    color: #464159;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    display: inline-block;
+    font-family: 'Sacramento', sans-serif;
+    font-size: 90px;
+}
+h2 {
+    color: #6c7b95;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.2rem;
+    margin-top: 15px;
+}
+h3 {
+    color: #5ea3a3;
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+}
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover {
+    color: #eaf6f6;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 600px;
+    bottom: 500px;
+}
+#top-cloud {
+    position: absolute;
+    right: 600px;
+    top: 65px;
+}
+.skill-row {
+    width: 50%;
+    text-align: left;
+    margin: 100px auto 100px auto;
+}
+.nazarimg {
+    margin-bottom: 40px;
+    height: 300px; 
+    width: 300px;
+}
+.certificate {
+    float: left;
+    text-align: center;
+    margin: auto;
+    height: 350px; 
+    width: 450px;
+}
+.contact-me {
+    padding-bottom: 70px;
+    width: 40%;
+    margin: auto;
+}
+.bottom-container {
+    padding-top: 60px;
+}
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.copyright {
+    color: #393e46;
+    font-size: 0.75rem;
+    padding: 20px 0px;
+}
